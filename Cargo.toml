@@ -1,0 +1,11 @@
+[package]
+name = "gl-canvas-rs"
+version = "0.1.0"
+authors = ["Birk Tjelmeland <birktjelmeland@yahoo.no>"]
+
+[dependencies]
+glium = "0.22"
+#glium_text = "0.13"
+#cgmath = "0.16"
+nalgebra = "0.16"
+lyon = "0.11"
